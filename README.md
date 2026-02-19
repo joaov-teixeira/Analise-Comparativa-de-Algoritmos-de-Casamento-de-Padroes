@@ -1,4 +1,5 @@
-# Análise Comparativa de Algoritmos de Casamento de Padroes:
+#[relatorio_AEDS2_joaoTeixeira.pdf](https://github.com/user-attachments/files/25425946/relatorio_AEDS2_joaoTeixeira.pdf)
+ Análise Comparativa de Algoritmos de Casamento de Padroes:
 <img width="1000" height="600" alt="grafico_resultados" src="https://github.com/user-attachments/assets/d0fbeffb-9bc4-4ad6-bcb3-1a90d77ee436" />
 
 
