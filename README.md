@@ -1,4 +1,5 @@
 # Análise Comparativa de Algoritmos de Casamento de Padroes:
+<img width="1000" height="600" alt="grafico_resultados" src="https://github.com/user-attachments/assets/d0fbeffb-9bc4-4ad6-bcb3-1a90d77ee436" />
 
 
 Abusca de padrões em strings é um problema clássico da Ciência da Computação, com
