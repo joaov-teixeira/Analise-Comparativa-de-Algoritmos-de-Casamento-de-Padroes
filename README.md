@@ -1,7 +1,7 @@
 # Análise Comparativa de Algoritmos de Casamento de Padroes:
 <img width="1000" height="600" alt="grafico_resultados" src="https://github.com/user-attachments/assets/d0fbeffb-9bc4-4ad6-bcb3-1a90d77ee436" />
 
-
+#[relatorio_AEDS2_joaoTeixeira.pdf](https://github.com/user-attachments/files/25425946/relatorio_AEDS2_joaoTeixeira.pdf)
 Abusca de padrões em strings é um problema clássico da Ciência da Computação, com
 aplicações diretas em editores de texto, ferramentas de busca, bioinformática, detecção
 de plágio e sistemas de recuperação da informação. O problema consiste, formalmente,
