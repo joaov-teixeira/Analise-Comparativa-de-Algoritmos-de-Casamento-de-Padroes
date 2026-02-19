@@ -33,7 +33,8 @@ Texto de 100.000 caracteres, padrão de 50 caracteres, alfabeto ASCII completo.
 Texto de 500.000 caracteres, padrão de 100 caracteres, alfabeto reduzido (A, C, G, T). Este cenário simula bioinformática e testa a eficiência dos saltos em alfabetos pequenos.
 
 # Conclusão
-[relatorio_AEDS2_joaoTeixeira.pdf](https://github.com/user-attachments/files/25425946/relatorio_AEDS2_joaoTeixeira.pdf)
+[relatorio_AEDS2_joaoTeixeira.pdf](https://github.com/user-attachments/files/25425946/relatorio_AEDS2_joaoTeixeira.pdf)  
+<img width="552" height="188" alt="resultados" src="https://github.com/user-attachments/assets/d7a6c526-8568-4a24-baac-a1fc633c4de6" />
 ## Melhor Desempenho Geral: 
 A família Boyer-Moore é imbatível na prática. O algoritmo Horspool oferece o melhor equilíbrio, sendo muito rápido e extremamente simples de implementar.
 ## Simplicidade vs. Eficiência:
