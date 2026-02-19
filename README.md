@@ -10,12 +10,12 @@ tamento de diferentes algoritmos de busca de padrões, focando tanto na complexi
 teórica quanto no desempenho empírico em diferentes cenários.
 
 # Os algoritmos analisados são:
-Força Bruta
-Rabin-Karp
-Knuth-Morris-Pratt (KMP)
-Boyer-Moore
-Boyer-Moore-Horspool
-Boyer-Moore-Horspool-Sunday
+Força Bruta  
+Rabin-Karp  
+Knuth-Morris-Pratt (KMP)  
+Boyer-Moore  
+Boyer-Moore-Horspool  
+Boyer-Moore-Horspool-Sunday  
 
 # Metodologia:
 ## Implementação e Ambiente:
