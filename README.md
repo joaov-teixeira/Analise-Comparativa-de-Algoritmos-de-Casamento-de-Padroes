@@ -30,3 +30,13 @@ sob diferentes condições de tamanho de entrada e alfabeto:
 ## Cenário 1 (Texto Pequeno): Texto de 10.000 caracteres, padrão de 5 caracteres, alfabeto ASCII completo.
 ## Cenário 2 (Texto Médio): Texto de 100.000 caracteres, padrão de 50 caracteres, alfabeto ASCII completo.
 ## Cenário 3 (DNA / Pior Caso para Heurísticas): Texto de 500.000 caracteres, padrão de 100 caracteres, alfabeto reduzido (A, C, G, T). Este cenário simula bioinformática e testa a eficiência dos saltos em alfabetos pequenos.
+
+# Conclusão
+## Melhor Desempenho Geral: 
+A família Boyer-Moore é imbatível na prática. O algoritmo Horspool oferece o melhor equilíbrio, sendo muito rápido e extremamente simples de implementar.
+## Simplicidade vs. Eficiência:
+Para textos aleatórios comuns, a Força Bruta ainda é uma opção viável e até mais rápida que algoritmos complexos como o KMP, devido à simplicidade de suas instruções de máquina.
+## Compensação do Pré-processamento: 
+O custo de pré-processamento do Boyer Moore compensa amplamente, pois permite pular grandes seções do texto. Já o pré processamento do KMP não se justificou nestes testes práticos com dados aleatórios.
+## Recomendação:
+Para implementações gerais em linguagens de alto nível, recomenda se o uso do Boyer-Moore-Horspool devido à sua facilidade de manutenção e alta performance, exceto em casos muito específicos de alfabetos minúsculos onde o Boyer-Moore completo pode ter vantagem.
